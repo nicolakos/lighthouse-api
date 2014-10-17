@@ -1,5 +1,5 @@
 class WelcomeController < ApplicationController
   def index
-    'lasdfhasdfkljdsk'
+    3.times{puts "lasdfhasdfkljdsk"}
   end
 end
