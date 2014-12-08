@@ -1,0 +1,30 @@
+# valid_request: 
+#   strength: 10
+#   latitude: 39.074208
+#   longitude: 21.824312
+
+missing_strength:
+  strength: nil
+  latitude: '39.074208'
+  longitude: '21.824312'
+
+missing_latitude:
+  strength: 5
+  latitude: nil
+  longitude: '21.824312'
+
+# missing_longitude:
+#   strength: 5
+#   latitude: 39.074208
+#   longitude: nil
+
+# strength_beyond_10:
+#   strength: 11
+#   latitude: 39.074208
+#   longitude: 21.824312
+
+# strength_lower_1:
+#   strength: 0
+#   latitude: 39.074208
+#   longitude: 21.824312
+
